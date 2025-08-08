@@ -65,7 +65,8 @@ Component 2:
 MST Edges: T-U(2), S-T(3)
 Total Cost: 5
 
-======================================================================================
+=============================================================================
+
 Question 2 : You are working as a network administrator for a company. The company has several computers (nodes) 
 connected via network cables (edges). The connections are bidirectional, and not all computers are directly 
 connected to each other.
